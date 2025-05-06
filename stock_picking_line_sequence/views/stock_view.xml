@@ -18,7 +18,7 @@
                 position="before"
             >
                     <field name="sequence" widget="handle" />
-                    <field name="sequence2" />
+                    <field name="sequence2" optional="hide"/>
                 </xpath>
                 <xpath
                 expr="//notebook/page/field[@name='move_ids_without_package']"
