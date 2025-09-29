@@ -42,6 +42,7 @@ setuptools.setup(
         'odoo-addon-stock_move_line_reserved_quant>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_line_serial_unique>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_manage_priority>=16.0dev,<16.1dev',
+        'odoo-addon-stock_move_not_merge_by_dest_moves>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_priority_picking_assign>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_propagate_first_move>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_quick_lot>=16.0dev,<16.1dev',
@@ -58,6 +59,7 @@ setuptools.setup(
         'odoo-addon-stock_picking_batch_invoice_frequency>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_batch_print_invoices>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_batch_print_pickings>=16.0dev,<16.1dev',
+        'odoo-addon-stock_picking_batch_start>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_batch_validate_confirm>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_customer_ref>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_date_deadline_syncs_scheduled_date>=16.0dev,<16.1dev',
@@ -110,6 +112,7 @@ setuptools.setup(
         'odoo-addon-stock_restrict_lot>=16.0dev,<16.1dev',
         'odoo-addon-stock_rule_reserve_max_quantity>=16.0dev,<16.1dev',
         'odoo-addon-stock_split_picking>=16.0dev,<16.1dev',
+        'odoo-addon-stock_split_picking_dimension>=16.0dev,<16.1dev',
         'odoo-addon-stock_valuation_layer_usage>=16.0dev,<16.1dev',
     ],
     classifiers=[
